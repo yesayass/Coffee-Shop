@@ -60,8 +60,8 @@ Keberhasilan dari inisiatif analisis ini diukur melalui indikator kinerja utama 
 **Link Dashboard Power BI** <a href="https://github.com/yesayass/Coffee-Shop/blob/main/Coffee_Shop.pbix">View Dashboard
   
 ## Kesimpulan
-1. Jumlah transaksi memengaruhi peningkatan revenue
-2. Lokasi Penjualan mempengaruhi peningkatan Revenue
-3. Jenis Produk mempengaruhi peningkatan Revenue
-4. Perbedaan harga mempengaruhi peningkatan Revenue
-5. Waktu transaksi mempengaruhi peningkatan Revenue
+1. Jumlah transaksi memengaruhi peningkatan Revenue. Kontribusi total revenue produk tidak selaras dengan total quantity produk. Barista Expresso memiliki kontribusi revenue tertinggi, sementara Brewed Chai Tea memiliki total quantity tertinggi.
+2. Lokasi Penjualan mempengaruhi peningkatan Revenue. Penjualan tetinggi selama Q1 2023 berada di cabang Hell’s Kitchen (236.5K), sementara penjualan terendah berada di Lower Manhattan (230.1K)
+3. Jenis Produk mempengaruhi peningkatan Revenue. Revenue tertinggi diperoleh Sustainably Grown Organik Lg
+4. Perbedaan harga mempengaruhi peningkatan Revenue. Revenue tertinggi diperoleh Sustainably Grown Organik Lg, sementara Earl Grey Rg memiliki quantity tertinggi. Produk murah tidak membuat produk tersebut memiliki revenue maupun quantity tinggi.
+5. Waktu transaksi mempengaruhi peningkatan Revenue. Puncak penjualan berada di jam 8-10 pagi (diatas 80K pelanggan).
