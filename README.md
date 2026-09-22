@@ -37,15 +37,26 @@ Keberhasilan dari inisiatif analisis ini diukur melalui indikator kinerja utama 
 - **Peak Hours & Transaction Velocity:** Akurasi prediksi jam sibuk untuk menekan waktu tunggu pesanan (*service lead time*).
 - **Product Sales Contribution (%):** Persentase kontribusi masing-masing kategori produk terhadap total omzet bisnis.
 
-## Exploratory Data Analysis / EDA
+### Exploratory Data Analysis / EDA
+
+## Dashboard
+
 **Store Performance**
 <img width="1329" height="735" alt="Store Performance" src="https://github.com/yesayass/Coffee-Shop/blob/main/Store%20Performance.png" />
+
 **Product Diagnostic**
 <img width="1329" height="735" alt="Product Diagnostic" src="https://github.com/yesayass/Coffee-Shop/blob/main/Product%20Diagnostic.png" />
+
 **Category Diagnostic**
 <img width="1329" height="735" alt="Category Diagnostic" src="https://github.com/yesayass/Coffee-Shop/blob/main/Category%20Diagnostic.png" />
+
 **Time Diagnostic**
 <img width="1329" height="735" alt="Time Diagnostic" src="https://github.com/yesayass/Coffee-Shop/blob/main/Time%20Diagnostic.png" />
 
+**Strategic Verdict**
+<img width="1329" height="735" alt="Strategic Verdict" src="https://github.com/yesayass/Coffee-Shop/blob/main/Strategic%20Verdict.png" />
 
+## Link Power BI
+**Link Dashboard Power BI** <a href="https://github.com/yesayass/Coffee-Shop/blob/main/Coffee_Shop.pbix">View Dashboard
+  
 ## Kesimpulan
