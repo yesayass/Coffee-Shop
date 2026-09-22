@@ -38,6 +38,8 @@ Keberhasilan dari inisiatif analisis ini diukur melalui indikator kinerja utama 
 - **Product Sales Contribution (%):** Persentase kontribusi masing-masing kategori produk terhadap total omzet bisnis.
 
 ## EDA
-
+<img width="1329" height="735" alt="Store Performance" src="https://github.com/yesayass/Coffee-Shop/blob/main/Store%20Performance.png" />
+<img width="1329" height="735" alt="Product Diagnostic" src="https://github.com/yesayass/Coffee-Shop/blob/main/Product%20Diagnostic.png" />
+<img width="1329" height="735" alt="Category Diagnostic" src="https://github.com/yesayass/Coffee-Shop/blob/main/Category%20Diagnostic.png" />
 
 ## Kesimpulan
