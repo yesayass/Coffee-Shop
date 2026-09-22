@@ -60,3 +60,8 @@ Keberhasilan dari inisiatif analisis ini diukur melalui indikator kinerja utama 
 **Link Dashboard Power BI** <a href="https://github.com/yesayass/Coffee-Shop/blob/main/Coffee_Shop.pbix">View Dashboard
   
 ## Kesimpulan
+1. Jumlah transaksi memengaruhi peningkatan revenue
+2. Lokasi Penjualan mempengaruhi peningkatan Revenue
+3. Jenis Produk mempengaruhi peningkatan Revenue
+4. Perbedaan harga mempengaruhi peningkatan Revenue
+5. Waktu transaksi mempengaruhi peningkatan Revenue
